@@ -15,8 +15,7 @@ Designed with a focus on code readability, separation of concerns, and clean vis
 6. [Environment Variables](#-environment-variables)
 7. [Running the Project](#-running-the-project)
 8. [API Endpoints](#-api-endpoints)
-9. [Screenshots](#-screenshots)
-10. [Future Improvements](#-future-improvements)
+9. [Future Improvements](#-future-improvements)
 
 ---
 
