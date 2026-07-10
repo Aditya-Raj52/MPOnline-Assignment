@@ -82,13 +82,13 @@ Ensure you have the following installed:
 - MySQL Server (e.g., MySQL Community Server or via XAMPP/WampServer)
 
 ### 1. Clone/Setup Workspace
-Extract or navigate into the root directory of the project:
+
 ```bash
 cd Task-Management-System
 ```
 
 ### 2. Set Up Virtual Environment (Recommended)
-Create and activate a python virtual environment:
+
 ```bash
 # Windows
 python -m venv venv
@@ -100,7 +100,7 @@ source venv/bin/activate
 ```
 
 ### 3. Install Dependencies
-Install all package requirements using `pip`:
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -171,17 +171,6 @@ To bypass the login screen, use the pre-seeded admin login details:
 
 ---
 
-## 📸 Screenshots
-
-Here are placeholders for application visual demonstrations:
-
-#### 1. Administrative Login Portal
-> *[Placeholder: Add your login portal screenshot here]*
-
-#### 2. Task Management Dashboard Panel
-> *[Placeholder: Add your dashboard screenshot here]*
-
----
 
 ## 🔮 Future Improvements
 
@@ -193,4 +182,4 @@ If you wish to extend the scope of this project, consider adding:
 
 ---
 
-Created By Mridul Jha
+Created By Aditya Raj
